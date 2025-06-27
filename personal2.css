@@ -11,4 +11,12 @@ h1{
 
 h2{
     color: rgb(255, 0, 81);
+    text-align: justify;
 }
+ .resize-img{
+    float: left;
+    width: 150px;
+    height: auto;
+    margin-right: 15px;
+    border-radius: 8px;
+ }
